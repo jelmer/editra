@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9),
 Standards-Version: 3.9.5
 X-Python-Version: >= 2.6
 Homepage: http://editra.org
-Vcs-Git: git://github.com/mogaal/editra
+Vcs-Git: https://github.com/mogaal/editra
 Vcs-Browser: https://github.com/mogaal/editra
 
 Package: editra
